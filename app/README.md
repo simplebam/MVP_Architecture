@@ -6,12 +6,14 @@
 
 ## 项目简介
 * 利用MVP框架简单获取中国天气网的数据
-
-App体验链接:
+* module "MVP-Old" 主要利用 android-async-http 联网框架,对应:[Android MVP 实例 | 吴小龙同學 ](http://wuxiaolong.me/2015/09/23/AndroidMVPSample/)
+* module "app" 主要利用 Retrofit/OkHttp 联网框架:[WuXiaolong/AndroidMVPSample: Android MVP + Retrofit + RxJava2 实例 ](https://github.com/WuXiaolong/AndroidMVPSample)
 
 
 ### 项目截图
 <a href="./art/meizi.png"><img src="./art/meizi.png" width="40%"/></a><img height="0" width="8px"/><a href="./art/setting.png"><img src="./art/setting.png" width="40%"/></a>
+
+App体验链接:
 
 
 ### 项目中用到的知识
