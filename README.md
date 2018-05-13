@@ -10,6 +10,13 @@
 ### 项目截图
 <a href="./art/meizi.png"><img src="./art/meizi.png" width="40%"/></a><img height="0" width="8px"/><a href="./art/setting.png"><img src="./art/setting.png" width="40%"/></a>
 
+App体验链接:
+
+
+## 数据提供
+* 中国天气网 :[首页-中国天气网 ](http://www.weather.com.cn/)
+  * 接口失效的话可以参考一下project/extra/weather.json
+
 
 ## 推荐-推荐的不仅仅是技术
 * [Android Retrofit 2.0 使用-补充篇 - 简书 ](https://www.jianshu.com/p/93153b34310e)

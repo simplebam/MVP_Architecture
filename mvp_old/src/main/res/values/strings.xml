@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MVP_Old</string>
+    <string name="load">加载</string>
+    <string name="show_data">数据显示</string>
+    <string name="city">城市：%1$s \n</string>
+    <string name="wd">风向：%1$s \n</string>
+    <string name="ws">风级：%1$s \n</string>
+    <string name="time">发布时间：%1$s \n</string>
+    <string name="load_failure">数据加载失败</string>
+    <string name="load_success">数据加载成功</string>
+</resources>

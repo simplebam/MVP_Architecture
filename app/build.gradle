@@ -26,7 +26,8 @@ ext {
     constraint_layout_version = '1.1.0'
     butterknife_version = '8.8.1'
     retrofit_version = '2.3.0'
-    okhttp_logginginterceptor = '3.9.1'
+    okhttp_logginginterceptor_version = '3.9.1'
+    android_asyn_http_version = '1.4.9'
     androidutils_version = '1.0.6'
     rxjava_version = '2.1.11'
     rxandroid_version = "2.0.2"
@@ -50,12 +51,14 @@ dependencies {
     implementation "io.reactivex.rxjava2:rxjava:$rxjava_version"
 
     //okhttp3 https://github.com/square/okhttp
-    implementation "com.squareup.okhttp3:logging-interceptor:$okhttp_logginginterceptor"
+    implementation "com.squareup.okhttp3:logging-interceptor:$okhttp_logginginterceptor_version"
 
     //retrofit2 https://github.com/square/retrofit
     implementation "com.squareup.retrofit2:retrofit:$retrofit_version"
     implementation "com.squareup.retrofit2:converter-gson:$retrofit_version"
     implementation "com.squareup.retrofit2:adapter-rxjava2:$retrofit_version"
+
+
 
     //androidutils https://github.com/WuXiaolong/AndroidUtils
     implementation "com.wuxiaolong.androidutils:androidutils:$androidutils_version"

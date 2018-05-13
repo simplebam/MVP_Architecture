@@ -1,0 +1,18 @@
+
+//访问中国天气网 http://www.weather.com.cn/adat/sk/101010100.html 得到的数据,以防以后接口不行
+{
+  "weatherinfo": {
+    "Radar": "JC_RADAR_AZ9010_JB",
+    "SD": "26%",
+    "WD": "东南风",
+    "WS": "2级",
+    "WSE": "2",
+    "city": "北京",
+    "cityid": "101010100",
+    "isRadar": "1",
+    "njd": "暂无实况",
+    "qy": "1012",
+    "temp": "10",
+    "time": "10:25"
+  }
+}
