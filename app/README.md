@@ -11,7 +11,7 @@
 
 
 ### 项目截图
-<a href="./art/meizi.png"><img src="./art/meizi.png" width="40%"/></a><img height="0" width="8px"/><a href="./art/setting.png"><img src="./art/setting.png" width="40%"/></a>
+<a href="./art/MVP_old.jpg"><img src="./art/MVP_old.jpg" width="20%"/></a><img height="0" width="8px"/><a href="./art/MVP_new.jpg"><img src="./art/MVP_new.jpg" width="20%"/></a>
 
 App体验链接:
 
