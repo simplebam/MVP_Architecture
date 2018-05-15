@@ -14,7 +14,8 @@
 <a href="./art/MVP_old.jpg"><img src="./art/MVP_old.jpg" width="20%"/></a><img height="0" width="8px"/><a href="./art/MVP_new.jpg"><img src="./art/MVP_new.jpg" width="20%"/></a>
 
 App体验链接:
-
+app:[MVP_debug-v1.0.apk ](https://github.com/simplebam/MVP_Architecture/releases/download/v2.0/MVP_debug-v1.0.apk)
+MVP_old:[mvp_old-debug-v1.0.apk ](https://github.com/simplebam/MVP_Architecture/releases/download/v1.0/mvp_old-debug-v1.0.apk)
 
 ### 项目中用到的知识
 * 命名规范-这里主要参考Blankj:[Android 开发规范（完结版） - 简书](https://www.jianshu.com/p/45c1675bec69)

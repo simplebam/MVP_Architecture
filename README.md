@@ -13,7 +13,8 @@
 <a href="./art/MVP_old.jpg"><img src="./art/MVP_old.jpg" width="30%"/></a><img height="0" width="8px"/><a href="./art/MVP_new.jpg"><img src="./art/MVP_new.jpg" width="30%"/></a>
 
 App体验链接:
-
+app:[MVP_debug-v1.0.apk ](https://github.com/simplebam/MVP_Architecture/releases/download/v2.0/MVP_debug-v1.0.apk)
+MVP_old:[mvp_old-debug-v1.0.apk ](https://github.com/simplebam/MVP_Architecture/releases/download/v1.0/mvp_old-debug-v1.0.apk)
 
 ## 数据提供
 * 中国天气网 :[首页-中国天气网 ](http://www.weather.com.cn/)
